@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "108003566774",
+    "project_id": "custoflow-39371",
+    "storage_bucket": "custoflow-39371.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108003566774:android:f81125b42b378cd9e07217",
+        "android_client_info": {
+          "package_name": "com.example.custoflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1w9TSwXoGgGu5acHN0MKysZbZU59rH7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
